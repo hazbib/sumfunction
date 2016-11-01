@@ -46,3 +46,7 @@ Network Trash Folder
 Temporary Items
 .apdisk
 .Rproj.user
+# explicit take care of some directories
+.Rproj.user/6F57867
+
+

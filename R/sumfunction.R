@@ -7,5 +7,6 @@
 
 sumfunction <- function(x) {
   x = x + 8
+  return(x)
 }
 

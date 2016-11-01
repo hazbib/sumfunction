@@ -5,8 +5,8 @@
 #' @examples
 #' sumfunction(x)
 
-sumfunction <- function(x) {
-  x = x + 8
+sumfunction <- function(x,y) {
+  x = x + y
   return(x)
 }
 
